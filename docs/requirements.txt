@@ -1,0 +1,8 @@
+sphinxcontrib-hdl-diagrams
+sphinx-book-theme
+yowasp_yosys
+
+# Ibex dependencies
+git+https://github.com/lowRISC/edalize.git@ot
+git+https://github.com/lowRISC/fusesoc.git@ot
+mako
