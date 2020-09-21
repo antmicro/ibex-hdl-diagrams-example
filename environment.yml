@@ -1,0 +1,13 @@
+name: ibex_sphinx
+channels:
+- symbiflow
+- conda-forge
+- defaults
+dependencies:
+- python=3.7
+- netlistsvg
+- antmicro-yosys
+- sphinx
+- pip
+- pip:
+  - -r file:docs/requirements.txt
