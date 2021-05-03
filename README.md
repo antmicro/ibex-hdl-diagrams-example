@@ -1,5 +1,6 @@
-Ibex HDL Diagrams Example
-=========================
+# Ibex HDL Diagrams Example
+
+Copyright (c) 2020-2021 [Antmicro](https://www.antmicro.com)
 
 This repository shows an example of Sphinxcontrib HDL Diagram usage for
 Ibex CPU diagram generation.
